@@ -94,3 +94,4 @@ Pods/
 
 # Artifacts directory
 artifacts/
+*.opendb
